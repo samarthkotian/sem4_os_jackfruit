@@ -86,27 +86,27 @@ sudo rmmod monitor
 
 **1. Multi-container supervision and CLI IPC:**
 
-![Multi-container supervision and IPC](./screenshots/screenshot1&4.png)
+![Multi-container supervision and IPC](./screenshots/1&4.png)
 
 **2. Metadata tracking:**
 
-![Metadata Tracking Table](./screenshots/screenshot2.png)
+![Metadata Tracking Table](./screenshots/2.png)
 
 **3. Bounded-buffer logging:**
 
-![Bounded Buffer logging](./screenshots/screenshot3.png)
+![Bounded Buffer logging](./screenshots/3.png)
 
 **4. Soft-limit warning and Hard-limit enforcement:**
 
-![Limit Enforcement](./screenshots/screenshot5&6.png)
+![Limit Enforcement](./screenshots/5&6.png)
 
 **5. Scheduling experiment:**
 
-![Scheduling experiment with top](./screenshots/screenshot7.png)
+![Scheduling experiment with top](./screenshots/7.png)
 
 **6. Clean teardown:**
 
-![Clean Teardown](./screenshots/screenshot8.png)
+![Clean Teardown](./screenshots/8.png)
 
 ---
 
